@@ -1,5 +1,12 @@
 # SQL studies
 
+SQL 이론과 실습 내용을 담았습니다.
+
+## 🧐디렉토리 안내
+### [basic](https://github.com/crosstar1228/SQL_study/tree/main/basic) : 기본 명령어를 담았습니다.
+### [hands-on](https://github.com/crosstar1228/SQL_study/tree/main/hands_on) : 실습 파일을 담았습니다.
+
+
 ## 📌SQL이란? 
 - structured query language의 약자로서, **관계형 데이터베이스**의 대표적인 쿼리 언어입니다.
 - table의 형태로 row, column을 확인하고 여러 데이터 분석 진행 가능합니다.
@@ -26,6 +33,3 @@
 
 출처: https://mangkyu.tistory.com/21 [MangKyu's Diary]
 
-## 🧐디렉토리 안내
-### [basic](https://github.com/crosstar1228/SQL_study/tree/main/basic) : 기본 명령어를 담았습니다.
-### [hands-on](https://github.com/crosstar1228/SQL_study/tree/main/hands_on) : 실습 파일을 담았습니다.
